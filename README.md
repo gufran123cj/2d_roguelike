@@ -1,10 +1,10 @@
 # 2d_roguelike
 2d rogue-like dungeon game in unity 
 
+
 # EXAMPLE EW CORRIDOR
 
 ![ewcorridor](https://user-images.githubusercontent.com/74301873/232309774-8fa3f465-93a1-4aa2-a246-ea20ff6ec96c.png)
-
 
 # EXAMPLE NS CORRIDOR
 
@@ -15,4 +15,8 @@
 
 # EXAMPLE BOSS ROOM
 ![boosroom](https://user-images.githubusercontent.com/74301873/232314217-c269e6d1-c787-4ad7-a660-b5faf7a302b1.png)
+
+# My Dungeon Buılder Algorıthm
+
+![dungeon_algortıhm](https://user-images.githubusercontent.com/74301873/232547478-c22b0f64-af79-43fe-8e3b-c5154c210bc7.png)
 
